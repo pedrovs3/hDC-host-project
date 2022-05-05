@@ -78,7 +78,7 @@ p{
 }
 
 .main-banner{
-    background-image: url(assets/img/mainbanner.png);
+    background-image: url(./img/mainbanner.png);
     color: whitesmoke;
     height: 55vh;
     background-position: center center;
